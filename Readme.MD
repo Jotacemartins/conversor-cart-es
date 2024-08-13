@@ -18,8 +18,7 @@ Clone o Repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone
 Abra o Arquivo index.html:
 
 Você pode abrir o arquivo index.html diretamente no seu navegador.
@@ -32,9 +31,4 @@ Clique no botão "Converter". O aplicativo processará os dados e formatará os 
 Baixe o Arquivo Convertido:
 
 Após a conversão, um link aparecerá para você baixar o arquivo convertido. Clique no link para baixar o arquivo.
-Contribuições
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou um pull request.
-
-Licença
-Este projeto é de domínio público. Sinta-se livre para usar, modificar e distribuir o código.
 
